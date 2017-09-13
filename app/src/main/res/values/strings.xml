@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Download From Google Drive</string>
+    <string name="lb_download">Télécharger le fichier</string>
+    <string name="lb_file_link">ID ou Lien de partage du fichier</string>
+    <string name="lb_file_name">Nom du fichier</string>
+    <string name="lb_exemple_link">Exemple : https://drive.google.com/open?id=0B184rLSgT2rcY2tLazhPNmdLc2c</string>
+    <string name="lb_exemple_name">Exemple : Dictionnaire-xml.zip</string>
+    <string name="lb_field_requires">Ce champ est obligatoire</string>
+    <string name="lb_field_invalidate">La saisie de ce champ est valide</string>
+    <string name="lb_downloading">Téléchargement en cours...</string>
+    <string name="lb_download_end">Téléchargement terminé avec succès.</string>
+    <string name="lb_connection_requires">Vous n\'avez pas de connexion internet</string>
+</resources>
